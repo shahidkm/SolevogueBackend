@@ -1,0 +1,6 @@
+@SolevogueBackend_HostAddress = http://localhost:5171
+
+GET {{SolevogueBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
